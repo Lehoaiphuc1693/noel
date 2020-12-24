@@ -9,10 +9,20 @@ body {
 
 .background {
     height: 100%;
-    background-image: url('daucatmoi.jpg');
+    background-image: url('hinh3.jpg');
     background-size: cover;
 }
-
+.background2 {
+    height: 100%;
+    background-image: url('hinh1.jpg');
+    background-size: cover;
+    display:flex;
+    align-items: center;
+    justify-content: center;”
+}
+.thiepmoi a img{
+  margin:auto;
+}
 @import "compass/css3";
 
 body{
